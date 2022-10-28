@@ -64,19 +64,3 @@ export function useIndex(){
          setMensagem
     }
 }
-
-//  {
-//         id:6,
-//         nome:"Ana Carolina Garcia Chereguim",
-//         foto: 
-//         "https://github.com/anachereguim.png",
-//         descricao: "Aulas de programação em JAVA",
-//         preco: 100
-//       }, {
-//         id:8,
-//         nome:"Caavchris",
-//         foto: 
-//         "https://github.com/Caavchris.png",
-//         descricao: "Aulas de programação para RPA",
-//         preco: 100
-//       }
