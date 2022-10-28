@@ -14,7 +14,7 @@ const tema = createTheme({
         },
     },
     shape: {
-        borderRadius: '3px',
+        borderRadius: 3,
     },
     components: {
         MuiButton: {
